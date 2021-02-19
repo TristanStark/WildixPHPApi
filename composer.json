@@ -1,0 +1,15 @@
+{
+    "name": "tristan-starkl/wildix-php-api",
+    "description": "PhP API for integrating WILDIX into your projects",
+    "type": "library",
+    "require": {
+        "wildix/s2s-client-php": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "Thomas Rety",
+            "email": "thomas.rety57@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
